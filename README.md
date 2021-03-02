@@ -1,5 +1,8 @@
 # sp500visualization
 
+This is a simple stock visulizaiton app.
+It allows user to pick and select Stock category.
+User can also decide the number of plot to display.
 
 ## TechSteck
 - Streamlit
